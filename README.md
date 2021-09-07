@@ -11,8 +11,8 @@ I combined several datasets to answer the question - where should someone live i
 <br>It was a fun project and while the rental market is constantly changing I think the information is still valuable.
 <br>Feel free to check it out!
 
-AppliedDataScienceCapstoneReportV2.pdf is my full report
+<a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/AppliedDataScienceCapstoneReportV1.pdf">AppliedDataScienceCapstoneReportV2.pdf</a> is my full report
 
-CheapChicagoLiving.ipynb is my Jupyter notebook
+<a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/CheapChicagoLiving.ipynb">CheapChicagoLiving.ipynb</a> is my Jupyter notebook
 
-CheapChicagoLivingPresentation.pdf is my final presentation slides
+<a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/CheapChicagoLivingPresentation.pdf">CheapChicagoLivingPresentation.pdf</a> is my final presentation slides
