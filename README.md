@@ -1,4 +1,3 @@
-# Coursera_Capstone
 Final Project for IBM Applied Data Science Profesional Certificate
 <br>Samantha Goodman
 <br>March 6, 2020
