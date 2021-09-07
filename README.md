@@ -13,6 +13,6 @@ It was a fun project and while the rental market is constantly changing I think 
 <br>Feel free to check it out!
 <br>
 <br>
-<a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/AppliedDataScienceCapstoneReportV1.pdf">AppliedDataScienceCapstoneReportV2.pdf</a> is my full report
+<a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/AppliedDataScienceCapstoneReportV2.pdf">AppliedDataScienceCapstoneReportV2.pdf</a> is my full report
 <br><a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/CheapChicagoLiving.ipynb">CheapChicagoLiving.ipynb</a> is my Jupyter notebook
 <br><a href="https://github.com/sjegoodman/IBM-Data-Science/blob/master/CheapChicagoLivingPresentation.pdf">CheapChicagoLivingPresentation.pdf</a> is my final presentation slides
