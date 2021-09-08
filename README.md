@@ -3,7 +3,7 @@
 <br>2020
   </h2>
 
-<b>Summary:</b>
+<b>Project Summary:</b>
 I combined several datasets to answer the question - where should someone live in Chicago if they want to find a cheap apartment near a lot of bars?
 <ul>
   <li>I scraped Craigslist ads for apartments and filtered them based on location, cost, and proximity to public transit.</li>
