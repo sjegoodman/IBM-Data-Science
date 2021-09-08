@@ -1,6 +1,6 @@
 <h2>Final Project for IBM Applied Data Science Profesional Certificate
 <br>Samantha Goodman
-<br>March 6, 2020
+<br>2020
   </h2>
 
 <b>Summary:</b>
