@@ -1,8 +1,8 @@
-<h2>Final Project for IBM Applied Data Science Profesional Certificate
+<h2>Capstone Project for IBM Applied Data Science Profesional Certificate
 <br>Samantha Goodman
 <br>2020
   </h2>
-
+<img src="https://github.com/sjegoodman/IBM-Data-Science/blob/master/lsquare.png" alt="Map of Apartments and Bars">
 <b>Project Summary:</b>
 I combined several datasets to answer the question - where should someone live in Chicago if they want to find a cheap apartment near a lot of bars?
 <ul>
