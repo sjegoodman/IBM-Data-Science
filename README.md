@@ -2,8 +2,10 @@
 <br>Samantha Goodman
 <br>2020
   </h2>
-<img src="https://github.com/sjegoodman/IBM-Data-Science/blob/master/lsquare.jpg" alt="Map of Apartments and Bars">
 ![map example](/docs/assets/lsquare.jpg)
+<br>
+<img src="https://github.com/sjegoodman/IBM-Data-Science/blob/master/lsquare.jpg" alt="Map of Apartments and Bars">
+
 <b>Project Summary:</b>
 I combined several datasets to answer the question - where should someone live in Chicago if they want to find a cheap apartment near a lot of bars?
 <ul>
