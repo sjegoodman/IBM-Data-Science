@@ -3,7 +3,7 @@
 <br>Samantha Goodman
 <br>2020
   </h2>
-![map example](/docs/assets/lsquare.jpg)
+
 <br>
 <img src="https://github.com/sjegoodman/IBM-Data-Science/blob/master/lsquare.jpg" alt="Map of Apartments and Bars">
 <br>
